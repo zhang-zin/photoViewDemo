@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.zj.photoviewdemo.MainActivity">
 
-    <com.tongbu.sdk.photoviewdemo.PhotoView
+    <com.zj.photoviewdemo.PhotoView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
