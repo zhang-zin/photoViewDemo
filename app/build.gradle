@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.tongbu.sdk.photoviewdemo"
+        applicationId "com.zj.photoviewdemo"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
